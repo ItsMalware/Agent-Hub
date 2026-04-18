@@ -131,7 +131,7 @@ Agent Hub is the foundation layer for that future.
 ## Contact
 
 Built by **Yasmine** @ Indigo Intelligence LLC  
-yison@cyberamira.co  
+yison@cindigoint.io 
 github.com/ItsMalware
 
 ---
